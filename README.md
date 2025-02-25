@@ -51,5 +51,5 @@ Open the browser and go to
 
 ## Authors
 
-- [Samujjwal](https://github.com/Samujjwal25)
+- [Samujjwal25](https://github.com/Samujjwal25)
 - 
