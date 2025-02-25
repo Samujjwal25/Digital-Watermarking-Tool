@@ -10,11 +10,12 @@ Features
 ✅ User-friendly dark-themed UI
 ✅ Download watermarked images
 
-Technologies Used
+**Technologies Used**
 Frontend: HTML, CSS, JavaScript
 Backend: Python (Flask)
 Steganography: Image processing for watermark embedding/extraction
-Usage
+
+**Usage**
 Upload an image
 Configure watermark settings (color, opacity)
 Apply the watermark
